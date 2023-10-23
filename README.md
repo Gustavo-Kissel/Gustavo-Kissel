@@ -4,7 +4,6 @@
    <a href="https://github.com/Gustavo-Kissel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Kissel&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Kissel&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Kissel&theme=midnight-purple&hide_border=true"/>
 </div>
     
 <div style="display: inline_block"><br>
